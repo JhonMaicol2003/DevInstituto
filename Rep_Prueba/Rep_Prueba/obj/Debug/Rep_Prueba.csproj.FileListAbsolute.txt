@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\bin\Debug\Rep_Prueba.exe.config
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\bin\Debug\Rep_Prueba.exe
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\bin\Debug\Rep_Prueba.pdb
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\obj\Debug\Rep_Prueba.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\obj\Debug\Rep_Prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\obj\Debug\Rep_Prueba.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\obj\Debug\Rep_Prueba.exe
+C:\Users\user\source\repos\DevInstituto\Rep_Prueba\Rep_Prueba\obj\Debug\Rep_Prueba.pdb
