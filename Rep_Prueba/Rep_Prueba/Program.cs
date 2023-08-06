@@ -11,7 +11,6 @@ namespace Rep_Prueba
         static void Main(string[] args)
         {
             Console.WriteLine("Esta es una prueba del repositorio de GitHub :)");
-            Console.WriteLine("Se a realizado un cambio");
         }
     }
 }
